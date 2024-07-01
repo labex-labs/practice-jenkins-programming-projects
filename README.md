@@ -6,8 +6,8 @@
 
 Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                          |
-|---------|-------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                         |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
 |       1 | Integrate Ansible With Jenkins for Automated Deplo... | ★★☆     | [🚀 Start Building](https://labex.io/courses/integrate-ansible-with-jenkins-for-automated-deployment) |
 |       2 | Deploy Jenkins Service on ECS                         | ★★☆     | [🚀 Start Building](https://labex.io/courses/deploy-jenkins-service-on-ecs)                           |
 |       3 | Use Jenkins Pipelines to Build a Project              | ★★☆     | [🚀 Start Building](https://labex.io/courses/use-jenkins-pipelines-to-build-a-project)                |
